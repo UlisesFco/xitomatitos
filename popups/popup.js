@@ -12,8 +12,7 @@
 
 // -------------------------------------------------------------------------------------------
 //Siguiente: - Añadir entradas y botones para poder modificar la duración de los tiempos
-//      - Ver como crear alarma con el menor retraso posible
-//      - Ver como hacer que funcion en firefox
+//           - Ver como hacer que funcione en firefox
 // -------------------------------------------------------------------------------------------
 
 'use strict';
