@@ -1,0 +1,106 @@
+{
+    "extDesc": {
+        "message": "Manage your working time in productive and rest segments using the pomodoro technique.",
+        "description": "Description of the extension."
+    },
+
+    "configTitle": {
+        "message":"About",
+        "description": "About page's title."
+    },
+
+    "start":{
+        "message":"Start",
+        "description":"Starts button's text."
+    },
+
+    "cancel":{
+        "message":"Cancel",
+        "description":"Cancel button's text."
+    },
+
+    "info":{
+        "message":"About",
+        "description":"Settings button's text."
+    },
+
+    "goStart": {
+        "message":"Go back",
+        "description":"Back button's text."
+    },
+
+    "setTime": {
+        "message":"Set time",
+        "description":"Set time button's text."
+    },
+
+    "work": {
+        "message":"Working time",
+        "description":"Working time label."
+    },
+
+    "shortRest": {
+        "message":"Short rest time",
+        "description":"Short rest time label."
+    },
+
+    "longRest": {
+        "message":"Long rest time",
+        "description":"Long rest time label."
+    },
+
+    "kofi": {
+        "message":"Buy me a coffee!",
+        "description":"Ko-fi donation link."
+    },
+
+    "notifWork":{
+        "message": "Start working!",
+        "description":"Working time message."
+    },
+
+    "notifShortRest":{
+        "message": "Have a little break",
+        "description":"Short rest time message."
+    },
+
+    "notifLongRest":{
+        "message": "Have longer rest, you've earned it!",
+        "description":"long rest time message."
+    },
+
+    "titleWork":{
+        "message":"Work",
+        "description":"Working time notification title."
+    },
+
+    "titleShortRest":{
+        "message":"Break",
+        "description":"Short rest time notification title."
+    },
+
+    "titleLongRest":{
+        "message":"Long break",
+        "description":"Long rest time notification title."
+    },
+
+    "timerDesc":{
+        "message":"Current settings: 25 min. for work, 5 min. for short rest, and 15 min. for long rest",
+        "description": "Text giving the current settings to the user",
+        "placeholders": {
+            "workTime": {
+                "content": "$1",
+                "example": "25"
+            },
+            "shortRestTime": {
+                "content": "$2",
+                "example": "5"
+            },
+            "longRestTime": {
+                "content": "$3",
+                "example": "15"
+            }
+        }
+    }
+
+}

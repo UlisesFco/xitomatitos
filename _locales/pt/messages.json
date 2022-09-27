@@ -1,0 +1,105 @@
+{
+    "extDesc": {
+        "message": "Gerencie seu tempo de trabalho em seções de produtividade e descanso usando a técnica pomodoro",
+        "description": "Descrição da extensão."
+    },
+
+    "configTitle": {
+        "message":"Informação",
+        "description": "Título da página de informação."
+    },
+
+    "start":{
+        "message":"Inicializar",
+        "description":"Texto do botão «Inicializar»."
+    },
+
+    "cancel":{
+        "message":"Cancelar",
+        "description":"Texto do botão «Cancelar»."
+    },
+
+    "info":{
+        "message":"Informação",
+        "description":"Texto do botão de informação."
+    },
+
+    "goStart": {
+        "message":"Retornar",
+        "description":"Texto do botão de retorno."
+    },
+
+    "setTime": {
+        "message":"Definir tempo",
+        "description":"Texto do botão para definir o tempo."
+    },
+
+    "work": {
+        "message":"Tempo de trabalho.",
+        "description":"Etiqueta do tempo de trabalho."
+    },
+
+    "shortRest": {
+        "message":"Tempo de descanso curto",
+        "description":"Etiqueta do tempo de descanso curto."
+    },
+
+    "longRest": {
+        "message":"Tempo de descanso comprido",
+        "description":"Etiqueta do tempo de descanso comprido."
+    },
+
+    "kofi": {
+        "message":"Ajude-me com uma doação!",
+        "description":"Link de doação a Ko-fi."
+    },
+
+    "notifWork":{
+        "message": "Comece a trabalhar!",
+        "description":"Mensagem do tempo de trabalho."
+    },
+
+    "notifShortRest":{
+        "message": "Descanse um pouco",
+        "description":"Mensagem do descanso curto."
+    },
+
+    "notifLongRest":{
+        "message": "Faça uma pausa mais longa, você o merece!",
+        "description":"Mensagem do descanso longo."
+    },
+
+    "titleWork":{
+        "message":"Trabalho",
+        "description":"Título da notificação do tempo de trabalho."
+    },
+
+    "titleShortRest":{
+        "message":"Descanso",
+        "description":"Título da notificação do tempo de descanso curto."
+    },
+
+    "titleLongRest":{
+        "message":"Descanso longo",
+        "description":"Título da notificação do tempo de descanso longo."
+    },
+
+    "timerDesc":{
+        "message":"Configuração atual: 25 min. de trabalho, 5 min. para o descanso curto y  15 min. para o descanso comprido",
+        "description": "Texto que mostra a configuração atual ao usuário.",
+        "placeholders": {
+            "workTime": {
+                "content": "$1",
+                "example": "25"
+            },
+            "shortRestTime": {
+                "content": "$2",
+                "example": "5"
+            },
+            "longRestTime": {
+                "content": "$3",
+                "example": "15"
+            }
+        }
+    }
+}
