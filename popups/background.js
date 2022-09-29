@@ -25,7 +25,7 @@ if (typeof browser === "undefined") {
  * Parameters to determine what type of notification and alarm should be created next.
  */
 var working = false;
-var inter = 1;
+var inter = 3;
 var count = 0;
 
 /**
